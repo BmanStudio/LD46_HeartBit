@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 812b4484808f1614fb45244f3df7366f, type: 3}
+  m_Name: CameraShakeProfile
+  m_EditorClassIdentifier: 
+  shakeSpeed: 10
+  xMovement: 0
+  yMovement: 0
+  zRotation: 5
+  duration: 0.5
